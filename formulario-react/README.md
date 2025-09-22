@@ -157,9 +157,9 @@ src/setupTests.js    # Configuración de tests no necesaria
 ## Información del Desarrollador
 
 **Proyecto**: Trabajo Práctico Experimental - Quinto Semestre
-**Materia**: Desarrollo Web
-**Institución**: UNIVERSIDAD ESTATAL DE MILAGRO (UNEMI) 
-**Fecha de Entrega**: Septiembre 2024
+**Materia**: [Desarrollo Web]
+**Institución**: [UNIVERSIDAD ESTATAL DE MILAGRO (UNEMI)]
+**Fecha de Entrega**: Septiembre 2025
 
 ### Objetivos Académicos Cumplidos
 - ✅ Implementación de componentes React funcionales
