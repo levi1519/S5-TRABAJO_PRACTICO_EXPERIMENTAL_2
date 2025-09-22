@@ -157,8 +157,8 @@ src/setupTests.js    # Configuración de tests no necesaria
 ## Información del Desarrollador
 
 **Proyecto**: Trabajo Práctico Experimental - Quinto Semestre
-**Materia**: [Nombre de la Materia]
-**Institución**: [Nombre de la Universidad]
+**Materia**: Desarrollo Web
+**Institución**: UNIVERSIDAD ESTATAL DE MILAGRO (UNEMI) 
 **Fecha de Entrega**: Septiembre 2024
 
 ### Objetivos Académicos Cumplidos
